@@ -42,10 +42,12 @@ Below are screenshots documenting the final configuration and the successful res
 
 This screenshot shows the core configuration of the Jenkins job, including the GitHub repository URL and the Maven build command.
 
-![Jenkins Job Configuration](https://placehold.co/800x400/2d333b/ffffff?text=Your+Screenshot+of+Jenkins+Job+Configuration+Here)
+![Jenkins Job Configuration](https://github.com/ash13579/hello-java-maven/blob/main/configuration1.png)
+![Jenkins Job Configuration](https://github.com/ash13579/hello-java-maven/blob/main/configuration%202.png)
 
 ### 2. Successful Console Output
 
 This screenshot displays the end of the console output for the final build, confirming that the process completed with a `BUILD SUCCESS` message.
 
-![Successful Console Output](https://placehold.co/800x400/2d333b/ffffff?text=Your+Screenshot+of+Successful+Console+Output+Here)
+![Successful Console Output](https://github.com/ash13579/hello-java-maven/blob/main/succes_status.png)
+![Successful Console Output](https://github.com/ash13579/hello-java-maven/blob/main/success_log.png)
